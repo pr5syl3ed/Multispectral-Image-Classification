@@ -1,0 +1,3 @@
+started
+Click coordinates 975,410
+Pixels selected 4726
